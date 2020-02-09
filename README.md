@@ -1,20 +1,3 @@
-## Common Elements
-* rect: creates a rectangle
-* circle: creates a circle
-* ellipse: creates an ellipse
-* line: creates a line
-* polygon: allows to create any kind of polygon
-* polyline:
-* path: create a path between two points
-* text: creates a text element
-* textPath: create a path between two points, and a linked text element
-* g: groups separate elements
-
-## Coloring
-* Stroke will change the line color
-* stroke width makes it bigger (default 1)
-* fill seems to fill the inside of the shape (probably only certain shapes)
-
 ## Random Links
 https://medium.com/@michaelmangial1/introduction-to-scalable-vector-graphics-6450c03e8d2e
 https://cssauthor.com/svg-tutorials/
