@@ -9,6 +9,7 @@ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.1.1/gsap.min.js
 https://greensock.com/
 https://greensock.com/ease-visualizer
 https://react-kawaii.now.sh/#/React%20Kawaii
+https://www.getmotion.io/
 
 ## Project ideas
 * https://fossheim.io/writing/posts/css-polaroid-camera/
